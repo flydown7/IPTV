@@ -1,0 +1,987 @@
+{
+  "categories": [
+    {
+      "name": "Movies",
+      "channels": [
+        {
+          "name": "ActionMAX",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd"
+        },
+        {
+          "name": "24 Free Movies",
+          "stream_url": "https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8"
+        },
+        {
+          "name": "AMC Film Picks",
+          "stream_url": "https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "AMC Rush",
+          "stream_url": "https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "American Classics",
+          "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8"
+        },
+        {
+          "name": "AXN",
+          "stream_url": "https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8"
+        },
+        {
+          "name": "PopCornFlix Action",
+          "stream_url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8"
+        },
+        {
+          "name": "Charge",
+          "stream_url": "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8"
+        },
+        {
+          "name": "Cinemax",
+          "stream_url": "https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8"
+        },
+        {
+          "name": "Film Hub",
+          "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8"
+        },
+        {
+          "name": "FilmRise Movies",
+          "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8"
+        },
+        {
+          "name": "FOX Movies Asia",
+          "stream_url": "https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8"
+        },
+        {
+          "name": "TATV",
+          "stream_url": "http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8"
+        },
+        {
+          "name": "Trans 7",
+          "stream_url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
+        },
+        {
+          "name": "Trans 7 [ALT]",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd"
+        },
+        {
+          "name": "Trans TV",
+          "stream_url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
+        },
+        {
+          "name": "Trans TV [ALT]",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd"
+        }
+      ]
+    },
+    {
+      "name": "News",
+      "channels": [
+        {
+          "name": "CNN",
+          "stream_url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
+        },
+        {
+          "name": "2 News Beaumont",
+          "stream_url": "https://livevideo01.12newsnow.com/hls/live/2017379/newscasts/live.m3u8"
+        },
+        {
+          "name": "ABC News",
+          "stream_url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
+        },
+        {
+          "name": "ABC News2",
+          "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8"
+        },
+        {
+          "name": "America's Voice",
+          "stream_url": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8"
+        },
+        {
+          "name": "Black News",
+          "stream_url": "http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8"
+        },
+        {
+          "name": "BBC World News",
+          "stream_url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
+        },
+        {
+          "name": "BBC World News [ALT]",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd"
+        },
+        {
+          "name": "Boston 25 News",
+          "stream_url": "https://d2dy6pkj44n6e7.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10020_27d61a9c-67b2-4d7c-9486-626a6a071467_LE/in/cmg-wftxtv-hls-v3/live.m3u8"
+        },
+        {
+          "name": "CBC News",
+          "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8"
+        },
+        {
+          "name": "Channel News Asia",
+          "stream_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
+        },
+        {
+          "name": "Chnannel News Asia [ALT]",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd"
+        },
+        {
+          "name": "CBC News2",
+          "stream_url": "http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8"
+        },
+        {
+          "name": "Cheddar News",
+          "stream_url": "https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "Cheddar News2",
+          "stream_url": "https://dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8"
+        },
+        {
+          "name": "CNN International",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd"
+        },
+        {
+          "name": "DW",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd"
+        },
+        {
+          "name": "FOX News",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd"
+        },
+        {
+          "name": "Estrella News",
+          "stream_url": "https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8"
+        },
+        {
+          "name": "iNews",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd"
+        },
+        {
+          "name": "OAN",
+          "stream_url": "http://oneamericanews-roku-us.amagi.tv/playlist.m3u8"
+        },
+        {
+          "name": "Payvand TV",
+          "stream_url": "http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8"
+        },
+        {
+          "name": "MNC News",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd"
+        },
+        {
+          "name": "NHK World",
+          "stream_url": "http://210.210.155.66/h/h23/02.m3u8"
+        },
+        {
+          "name": "NHK World Japan",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd"
+        },
+        {
+          "name": "NHK World Premium",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd"
+        },
+        {
+          "name": "Revry News",
+          "stream_url": "https://linear-44.frequency.stream/dist/localnow/44/hls/master/playlist.m3u8"
+        },
+        {
+          "name": "TV One",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd"
+        },
+        {
+          "name": "COVID-19 News",
+          "stream_url": "https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8"
+        },
+        {
+          "name": "USA Today",
+          "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8"
+        },
+        {
+          "name": "VoA TV",
+          "stream_url": "https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8"
+        },
+        {
+          "name": "TVRI Nasional",
+          "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"
+        },
+        {
+          "name": "Voice of America2",
+          "stream_url": "http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?fluxustv.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Film",
+      "channels": [
+        {
+          "name": "&Flix",
+          "stream_url": "https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "name": "&Prive",
+          "stream_url": "https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "name": "Bioskop Indonesia",
+          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0"
+        },
+        {
+          "name": "Boo",
+          "stream_url": "http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8"
+        },
+        {
+          "name": "Celestial Classic",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd"
+        },
+        {
+          "name": "Celestial Movie",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd"
+        },
+        {
+          "name": "Celestial Movie [ALT]",
+          "stream_url": "http://210.210.155.35/qwr9ew/s/s33/index.m3u8"
+        },
+        {
+          "name": "Cine Life",
+          "stream_url": "https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8"
+        },
+        {
+          "name": "Cinema World",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd"
+        },
+        {
+          "name": "Cinema World [ALT]",
+          "stream_url": "http://210.210.155.35/uq2663/h/h04/index2.m3u8"
+        },
+        {
+          "name": "Cinemax",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd"
+        },
+        {
+          "name": "Flik",
+          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0"
+        },
+        {
+          "name": "Fox Action Movies",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd"
+        },
+        {
+          "name": "Fox Family Movies",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd"
+        },
+        {
+          "name": "Fox Movies Premium",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd"
+        },
+        {
+          "name": "Galaxy",
+          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxy&bandwidth=default&sync=0"
+        },
+        {
+          "name": "Galaxy Premium",
+          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxypremium&bandwidth=default&sync=0"
+        },
+        {
+          "name": "HBO",
+          "stream_url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8"
+        },
+        {
+          "name": "HBO Family",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd"
+        },
+        {
+          "name": "HBO Hits",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd"
+        },
+        {
+          "name": "HBO Signature",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd"
+        },
+        {
+          "name": "Hits",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd"
+        },
+        {
+          "name": "Hits Movies",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd"
+        },
+        {
+          "name": "IMC",
+          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0"
+        },
+        {
+          "name": "Movie Kingdom",
+          "stream_url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8"
+        },
+        {
+          "name": "MovieMix",
+          "stream_url": "https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8"
+        },
+        {
+          "name": "MovieSphere",
+          "stream_url": "https://moviesphere-plex.amagi.tv/playlist.m3u8"
+        },
+        {
+          "name": "My Cinema",
+          "stream_url": "http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8"
+        },
+        {
+          "name": "New K-Movies",
+          "stream_url": "https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "Sinema Indonesia",
+          "stream_url": "http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8"
+        },
+        {
+          "name": "Thrill",
+          "stream_url": "http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8"
+        },
+        {
+          "name": "Thrill [ALT]",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd"
+        },
+        {
+          "name": "tvN Movies",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd"
+        },
+        {
+          "name": "Zee Bioskop",
+          "stream_url": "http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8"
+        },
+        {
+          "name": "Zee Bioskop [ALT]",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd"
+        }
+      ]
+    },
+    {
+      "name": "Entertainment",
+      "channels": [
+        {
+          "name": "30A Sidewalks",
+          "stream_url": "https://30a-tv.com/sidewalks.m3u8"
+        },
+        {
+          "name": "MC Presents",
+          "stream_url": "https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "Antenna TV West",
+          "stream_url": "https://cdn87.theus6tv.tk/locals/Fresno/kmsg-43.5.m3u8"
+        },
+        {
+          "name": "Asiancrush",
+          "stream_url": "ttps://ac-samsung.plex.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "Axs TV",
+          "stream_url": "https://bozztv.com/teleyupp/teleup-axshd/playlist.m3u8"
+        },
+        {
+          "name": "Blaze TV",
+          "stream_url": "https://theblaze4.akamaized.net/hls/live/699982/theblaze/cm-dvr/master.m3u8"
+        },
+        {
+          "name": "Bumblebee Thinknoodles",
+          "stream_url": "https://stitcheraws.unreel.me/wse-node04.powr.com/live/5afc810e932c833522744733/playlist.m3u8"
+        },
+        {
+          "name": "Buzzr",
+          "stream_url": "https://buzzr-roku-us.amagi.tv/playlist.m3u8"
+        },
+        {
+          "name": "Circle",
+          "stream_url": "https://circle-roku.amagi.tv/playlist.m3u8"
+        },
+        {
+          "name": "CONtv",
+          "stream_url": "http://contv.sinclair.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "CONtv2",
+          "stream_url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8"
+        },
+        {
+          "name": "Court TV Mystery",
+          "stream_url": "https://bozztv.com/teleyupp/teleup-mystery/playlist.m3u8"
+        },
+        {
+          "name": "Drink TV",
+          "stream_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=62"
+        },
+        {
+          "name": "Fox Channel",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd"
+        },
+        {
+          "name": "Fox Crime",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd"
+        },
+        {
+          "name": "lectric Now",
+          "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8"
+        },
+        {
+          "name": "Fido TV",
+          "stream_url": "https://fidotv-roku.amagi.tv/playlist.m3u8"
+        },
+        {
+          "name": "KIX",
+          "stream_url": "http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8"
+        },
+        {
+          "name": "Freeform",
+          "stream_url": "https://bozztv.com/teleyupp/IxagghMvR8/playlist.m3u8"
+        },
+        {
+          "name": "Game Show Network",
+          "stream_url": "https://gsn-gameshowchannnel-1.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "Midnight Pulp",
+          "stream_url": "https://midnightpulp-samsung.plex.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "MST3K",
+          "stream_url": "https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8"
+        },
+        {
+          "name": "My Destination TV",
+          "stream_url": "https://bozztv.com/teleyupp/teleup-destinationtv/playlist.m3u8"
+        },
+        {
+          "name": "People are Awesome",
+          "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8"
+        },
+        {
+          "name": "People are Awesome2",
+          "stream_url": "https://jukin-peopleareawesome-1.plex.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "People TV",
+          "stream_url": "https://peopletv-localnow.akamaized.net/playlist.m3u8"
+        },
+        {
+          "name": "People TV2",
+          "stream_url": "https://d1qaz9zojo1ayt.cloudfront.net/playlist.m3u8"
+        },
+        {
+          "name": "Play Works",
+          "stream_url": "https://playworksdigital-playworks-1.plex.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "People Are Awesome3",
+          "stream_url": "https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "Popstar! TV",
+          "stream_url": "https://linear-10.frequency.stream/10/hls/master/playlist.m3u8"
+        },
+        {
+          "name": "Popstar! TV2",
+          "stream_url": "https://linear-10.frequency.stream/dist/localnow/10/hls/master/playlist.m3u8"
+        },
+        {
+          "name": "VENN",
+          "stream_url": "https://venntv-distrotv.amagi.tv/playlist.m3u8"
+        },
+        {
+          "name": "World Poker Tour",
+          "stream_url": "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8"
+        },
+        {
+          "name": "Sone",
+          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=sone&bandwidth=default&sync=0"
+        },
+        {
+          "name": "Sony One",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd"
+        },
+        {
+          "name": "Star Chinese Legend",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd"
+        },
+        {
+          "name": "Star Chinese Movie",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd"
+        },
+        {
+          "name": "STAR World",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd"
+        },
+        {
+          "name": "Youtoo America",
+          "stream_url": "https://thegateway.app/YouToo/YTamerica/playlist.m3u8"
+        },
+        {
+          "name": "The Pet Collective",
+          "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8"
+        },
+        {
+          "name": "tvN",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd"
+        },
+        {
+          "name": "Vision Prime",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd"
+        },
+        {
+          "name": "WakuWaku Japan",
+          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=wakuwaku&bandwidth=default&sync=0"
+        },
+        {
+          "name": "Warner TV",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd"
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "channels": [
+        {
+          "name": "30A Music",
+          "stream_url": "https://30a-tv.com/music.m3u8"
+        },
+        {
+          "name": "Baeble Music",
+          "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8"
+        },
+        {
+          "name": "Bluegrass Music",
+          "stream_url": "ttps://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8"
+        },
+        {
+          "name": "California Music",
+          "stream_url": "https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8"
+        },
+        {
+          "name": "MTV Biggest Pop",
+          "stream_url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8"
+        },
+        {
+          "name": "Loop 80s East",
+          "stream_url": "https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8"
+        },
+        {
+          "name": "Music Channel",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd"
+        },
+        {
+          "name": "Music TV",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd"
+        },
+        {
+          "name": "OneMusic",
+          "stream_url": "http://hz1.teleport.cc/HLS/HD.m3u8"
+        },
+        {
+          "name": "Loop 80s West",
+          "stream_url": "https://a500d902bdf94ea69ad343720add6036.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_littlstar/master.m3u8"
+        },
+        {
+          "name": "Street Music",
+          "stream_url": "https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8"
+        },
+        {
+          "name": "Stingray Karaoke",
+          "stream_url": "https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8"
+        },
+        {
+          "name": "Today's Latin Pop",
+          "stream_url": "https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8"
+        },
+        {
+          "name": "Loop Hip-Hop East",
+          "stream_url": "https://loop-hip-hop-1.roku.wurl.com/manifest/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Kids",
+      "channels": [
+        {
+          "name": "Animax",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd"
+        },
+        {
+          "name": "Animax Asia",
+          "stream_url": "http://210.210.155.35/dr9445/h/h144/02.m3u8"
+        },
+        {
+          "name": "Aniplus Asia",
+          "stream_url": "http://210.210.155.35/dr9445/h/h02/index.m3u8"
+        },
+        {
+          "name": "Astro Ceria",
+          "stream_url": "http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8"
+        },
+        {
+          "name": "BabyFirst",
+          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=babyfirst&bandwidth=default&sync=0"
+        },
+        {
+          "name": "Biznet Kids",
+          "stream_url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC"
+        },
+        {
+          "name": "Boomerang",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd"
+        },
+        {
+          "name": "Cartoon Network",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd"
+        },
+        {
+          "name": "CBeebies",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd"
+        },
+        {
+          "name": "CONtv Anime",
+          "stream_url": "https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8"
+        },
+        {
+          "name": "Da Vinci Learning",
+          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=davinci&bandwidth=default&sync=0"
+        },
+        {
+          "name": "Disney Channel",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd"
+        },
+        {
+          "name": "Disney Junior [HD]",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd"
+        },
+        {
+          "name": "DreamWorks",
+          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=dreamworks-1&bandwidth=default&sync=0"
+        },
+        {
+          "name": "Dunia Anak",
+          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=duniaanak&bandwidth=default&sync=0"
+        },
+        {
+          "name": "HappyKids",
+          "stream_url": "https://happykids-vizio.amagi.tv/playlist480p.m3u8"
+        },
+        {
+          "name": "Horee",
+          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=horee&bandwidth=default&sync=0"
+        },
+        {
+          "name": "Kartoon Fun Time",
+          "stream_url": "https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8"
+        },
+        {
+          "name": "Kidoodle TV",
+          "stream_url": "https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "Kids TV",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd"
+        },
+        {
+          "name": "Kinder TV",
+          "stream_url": "http://autopilot.catcast.tv/content/38144/index.m3u8"
+        },
+        {
+          "name": "Miao Mi",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd"
+        },
+        {
+          "name": "My Kids",
+          "stream_url": "http://210.210.155.35/qwr9ew/s/s30/index2.m3u8"
+        },
+        {
+          "name": "Nick Jr.",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd"
+        },
+        {
+          "name": "Nick Jr. (Pluto TV)",
+          "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+        },
+        {
+          "name": "Nickelodeon",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd"
+        },
+        {
+          "name": "Nicktoon",
+          "stream_url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+        },
+        {
+          "name": "Pocket.Watch",
+          "stream_url": "https://pocketwatch.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "Spacetoon",
+          "stream_url": "http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8"
+        },
+        {
+          "name": "Spacetoon [ID]",
+          "stream_url": "http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8"
+        },
+        {
+          "name": "Supertoons",
+          "stream_url": "https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8"
+        },
+        {
+          "name": "Toon Goggles",
+          "stream_url": "https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "Toon Goggles Junior",
+          "stream_url": "https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "Toonmax",
+          "stream_url": "http://45.126.83.51/qwr9ew/s/s50/index.m3u8"
+        },
+        {
+          "name": "Zoo Moo",
+          "stream_url": "https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "channels": [
+        {
+          "name": "Animal Planet",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd"
+        },
+        {
+          "name": "Animals Live",
+          "stream_url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8"
+        },
+        {
+          "name": "Asian Food Network",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd"
+        },
+        {
+          "name": "BBC Earth [HD]",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd"
+        },
+        {
+          "name": "Crime Investigation",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd"
+        },
+        {
+          "name": "Discovery Asia",
+          "stream_url": "https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8"
+        },
+		{
+          "name": "Discovery Channel [ALT]",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd"  
+        },
+        {
+          "name": "Discovery Channel",
+          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=disco&bandwidth=default&sync=0"
+        },
+        {
+          "name": "HGTV",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd"
+        },
+        {
+          "name": "History",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd"
+        },
+        {
+          "name": "History",
+          "stream_url": "https://mkctvbro.my.id/horas/pakailah.m3u8?id=history&bandwidth=default&sync=0"
+        },
+        {
+          "name": "Love Nature",
+          "stream_url": "http://bamus-eng-roku.amagi.tv/playlist.m3u8"
+        },
+        {
+          "name": "Magellan TV",
+          "stream_url": "https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8"
+        },
+        {
+          "name": "NASA TV",
+          "stream_url": "http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7"
+        },
+        {
+          "name": "Nat Geo Channel",
+          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0"
+        },
+        {
+          "name": "Nat Geo People",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd"
+        },
+        {
+          "name": "Nat Geo People [ALT]",
+          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0"
+        },
+        {
+          "name": "Nat Geo Wild",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd"
+        },
+        {
+          "name": "Nat Geo Wild [ALT]",
+          "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0"
+        },
+        {
+          "name": "Nat Geo Wild [Asia]",
+          "stream_url": "http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8"
+        },
+        {
+          "name": "National Geographic",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd"
+        },
+        {
+          "name": "National Geographic [ALT]",
+          "stream_url": "https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8"
+        },
+        {
+          "name": "Popular Science",
+          "stream_url": "http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8"
+        },
+        {
+          "name": "TLC",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd"
+        }
+      ]
+    },
+    {
+      "name": "Sports",
+      "channels": [
+        {
+          "name": "Adventure Sports",
+          "stream_url": "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8"
+        },
+        {
+          "name": "Bek Sports East",
+          "stream_url": "https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8"
+        },
+        {
+          "name": "eSports",
+          "stream_url": "https://eyeonesports.com/ES2RA-628g.m3u8"
+        },
+        {
+          "name": "ESTV",
+          "stream_url": "https://estv-rakuten-samsung.amagi.tv/playlist.m3u8"
+        },
+        {
+          "name": "Fite",
+          "stream_url": "https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8"
+        },
+        {
+          "name": "Football Daily",
+          "stream_url": "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8"
+        },
+        {
+          "name": "Fuel TV",
+          "stream_url": "http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+          "name": "grvty",
+          "stream_url": "https://d37j5jg7ob6kji.cloudfront.net/index.m3u8"
+        },
+        {
+          "name": "Hard Knocks",
+          "stream_url": "https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8"
+        },
+        {
+          "name": "Horizon Sports",
+          "stream_url": "https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8"
+        },
+        {
+          "name": "IMPACT Wrestling",
+          "stream_url": "https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8"
+        },
+        {
+          "name": "KBP Sports",
+          "stream_url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8"
+        },
+        {
+          "name": "NBA TV",
+          "stream_url": "https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8"
+        },
+        {
+          "name": "Players TV",
+          "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8"
+        },
+        {
+          "name": "Tennis Channel",
+          "stream_url": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8"
+        },
+        {
+          "name": "TVS Boxing",
+          "stream_url": "https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8"
+        },
+        {
+          "name": "USA Today Sportswire",
+          "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatodaysportswire/CDN/playlist.m3u8"
+        },
+        {
+          "name": "Lax Sports Network",
+          "stream_url": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"
+        },
+        {
+          "name": "MavTV",
+          "stream_url": "https://mavtv-1.vizio.wurl.com/manifest/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Cooking",
+      "channels": [
+        {
+          "name": "America's Test Kitchen",
+          "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8"
+        },
+        {
+          "name": "bon appetit",
+          "stream_url": "https://bonappetit-samsung.amagi.tv/playlist.m3u8"
+        },
+        {
+          "name": "Chef Champion",
+          "stream_url": "https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8"
+        },
+        {
+          "name": "Cooking Panda",
+          "stream_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46"
+        },
+        {
+          "name": "FilmRise Cooking",
+          "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8"
+        },
+        {
+          "name": "Food 52",
+          "stream_url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8"
+        },
+        {
+          "name": "Gusto TV",
+          "stream_url": "https://a.jsrdn.com/broadcast/ebf95254ca/+0000/c.m3u8"
+        },
+        {
+          "name": "Gusto TV 2",
+          "stream_url": "https://d3cajslujfq92p.cloudfront.net/playlist.m3u8"
+        },
+        {
+          "name": "NTV 7",
+          "stream_url": "http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8"
+        },
+        {
+          "name": "STIRR Gusto TV",
+          "stream_url": "https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8"
+        },
+        {
+          "name": "Tastemade",
+          "stream_url": "https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8"
+        },
+        {
+          "name": "Tastemade2",
+          "stream_url": "https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8"
+        }
+      ]
+    }
+  ],
+  "drm_licenses": [
+    {
+      "drm_name": "mncnow",
+      "drm_url": "https://"
+    }
+  ]
+}
